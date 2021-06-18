@@ -1,0 +1,7 @@
+<div id="article_results">
+  <p>Search Results: <%= @articles.length %></p>
+  <% @articles.each do |article| %>
+    <h2><%= article.title %></h2>
+    <p><%= article.body %></p>
+  <% end %>
+</div>
