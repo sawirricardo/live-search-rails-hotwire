@@ -1,24 +1,9 @@
-# README
+# Live search implemented with Rails + Hotwire & StimulusJS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://user-images.githubusercontent.com/37329575/122628940-7ab88a00-d0e3-11eb-872c-f33d216b6fd5.mov
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+Git clone https://github.com/sawirricardo/live-search-rails-hotwire.git
+cd live-search-rails-hotwire
+bin/rails server
+```
